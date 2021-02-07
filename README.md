@@ -9,7 +9,7 @@ ao programa do [Curso de Java 46: Orientação a Objetos: Interface e herança](
  da *Loiane Groner*.
 
 ### Exceptions
-Esse exercício aborda o conceito de exceções com a utilização de *try* e *catch*.
+Os exemplos da pasta *Exceptions* abordam conteúdos relacionados a exceções com a utilização de *try* e *catch*.
 
 
 
