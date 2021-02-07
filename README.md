@@ -8,5 +8,8 @@ Esse exercício eu fiz somente para fixar o conceito de Interface e Herança. El
 ao programa do [Curso de Java 46: Orientação a Objetos: Interface e herança](https://youtu.be/h-R4mWzmRKc)
  da *Loiane Groner*.
 
+### Exceptions
+Esse exercício aborda o conceito de exceções com a utilização de *try* e *catch*.
+
 
 
