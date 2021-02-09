@@ -19,7 +19,7 @@ public class DivisaoInteiros {
             catch(ArithmeticException | ArrayIndexOutOfBoundsException | DivisaoNaoExataException e){
                 System.out.println("Erro");
                 e.printStackTrace();
-                    
+
             }
 
         }
